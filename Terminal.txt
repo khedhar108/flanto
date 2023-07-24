@@ -3,3 +3,4 @@ npx create-next-app@latest .
 
 // github connection
 1st create a repo in github and follow the readme instructions
+note: don't select readme file while creating repo
