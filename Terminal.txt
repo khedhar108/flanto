@@ -1,1 +1,4 @@
+// use "." to create a nextapp in current directory
 npx create-next-app@latest .
+
+
